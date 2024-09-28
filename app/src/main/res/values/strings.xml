@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Exercise XML</string>
+    <string name="random_image">Random Image</string>
+</resources>
